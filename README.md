@@ -1,11 +1,7 @@
 # New Jersey Prisoner Reports
 > Help us code anonymous prisoner testimony
 
-**New Jersey Prisoner Reports** is a public, online database of anonymous prisoner testimony. Originally a report published by the **American Friends Service Committee**'s *Prison Watch Project*, [@billimarie](https://www.github.com/billimarie) of **CLASP** has transcribed the data into a searchable web app.
-
-1. [Instructions](#instructions)
-2. [Website](#website)
-3. [Help Wanted](#help-wanted)
+**New Jersey Prisoner Reports** is a public, online database of anonymous prisoner testimony. Originally a report published by the **American Friends Service Committee**'s *Prison Watch Project*, [@billimarie](https://www.github.com/billimarie) of **CLASP** has transcribed the data into a searchable web app ([**CLASP: New Jersey Prisoner Reports**](https://www.CLASPjustice.com/prisoner-reports)).
 
 ## Instructions
 
@@ -15,9 +11,13 @@ Official CLASP volunteers: ["From The Inside Out" (.doc)](https://drive.google.c
 
 ### 2. Copy an individual testimony
 
+<img src="https://github.com/CLASPjustice/new-jersey-prisoner-reports/blob/master/images/new-jersey-prisoner-reports_tutorial_01.gif" width="600px" />
+
 ### 3. Paste and reformat into HTML
 
 Open [New Jersey Prisoner Reports (.html)](/index.html). Paste and reformat the testimony.
+
+<img src="https://github.com/CLASPjustice/new-jersey-prisoner-reports/blob/master/images/new-jersey-prisoner-reports_tutorial_02.gif" width="600px" />
 
 Essentially, you will be inputing data into a list. Follow the coding standard:
 
@@ -36,18 +36,4 @@ Essentially, you will be inputing data into a list. Follow the coding standard:
 
 ### 4. Repeat. Don't forget to save!
 
-## Website
-
-The **New Jersey Prisoner Reports** is hosted on the **CLASP** website: https://www.CLASPjustice.com/prisoner-reports
-
-## Help Wanted
-
-Contributors of all skill levels warmly encouraged to participate.
-
-There are several areas in need of contributors:
-
-### Basic data entry: create HTML for each testimony
-```
-Skill Level: Beginner
-Time Required: 0-2 hours
-```
+<img src="https://github.com/CLASPjustice/new-jersey-prisoner-reports/blob/master/images/new-jersey-prisoner-reports_tutorial_03.gif" width="600px" />
