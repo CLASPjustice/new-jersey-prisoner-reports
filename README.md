@@ -17,6 +17,8 @@ Contributors of all skill levels warmly encouraged to participate.
 There are several areas in need of contributors:
 
 ### Basic data entry: create HTML for each testimony
-> Skill Level: Beginner
-> Time Required: 0-2 hours
+```
+Skill Level: Beginner
+Time Required: 0-2 hours
+```
 
